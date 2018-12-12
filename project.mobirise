@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 103,
+    "uniqCompNum": 105,
     "versionPublish": "4.8.8",
     "favicon": "@PROJECT_PATH@/assets/images/pku-128x128.png",
     "noImageResize": "",
@@ -2239,7 +2239,7 @@
             "overlayOpacity": 0.5
           },
           "title": "第七次技术传播沙龙",
-          "text": "<p>互联网技术写作</p><p>2018年12月22日 14:00-18:00</p><p>北京阿里望京中心A座</p><p>（北京市朝阳区望京东园四区9号楼）</p>",
+          "text": "<p>互联网技术写作</p><p>2018年12月22日 14:00-17:30</p><p>北京阿里望京中心A座</p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -2323,6 +2323,42 @@
               "text-align": "left"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "承办方",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2v"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>阿里云文档中心</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2w"
         },
         {
           "_styles": {

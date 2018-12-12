@@ -1010,6 +1010,13 @@ h6,
 #content1-31 P {
   text-align: left;
 }
+#header3-2v .mbr-section-title,
+#header3-2v .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2v .mbr-section-title {
+  text-align: left;
+}
 #header3-33 .mbr-section-title,
 #header3-33 .mbr-section-subtitle {
   text-align: center;
