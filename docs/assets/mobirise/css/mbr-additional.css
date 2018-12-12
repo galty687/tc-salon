@@ -510,11 +510,11 @@ h6,
   color: #ffffff;
 }
 #menu-d .link {
-  font-size: 0.75rem;
+  font-size: 0.9rem;
 }
 #menu-d .dropdown-item,
 #menu-d .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.975rem;
 }
 #menu-d .link:hover,
 #menu-d .dropdown-item:hover,
@@ -996,6 +996,9 @@ h6,
 #header3-2w .mbr-section-title,
 #header3-2w .mbr-section-subtitle {
   text-align: center;
+}
+#header3-2w .mbr-section-title {
+  font-size: 36px;
 }
 #header3-30 .mbr-section-title,
 #header3-30 .mbr-section-subtitle {
