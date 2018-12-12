@@ -2478,7 +2478,7 @@
             "bgColor": "#fff"
           },
           "title": "日程安排",
-          "meta": "/<span style=\"font-style: normal;\">日程还会微调，请常回来看看</span>&nbsp;/",
+          "meta": "-<span style=\"font-style: normal;\">日程还会微调，请常回来看看</span>&nbsp;-",
           "_tags": [
             "Theme"
           ],
@@ -2491,7 +2491,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>13:00-14:00&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;入场签到</p><p><br></p><p>14:00-15:30</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;技术文档代码化开发模式</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;阿里云技术文档开发实践</p><p><br></p><p>15:30-16:00</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;茶歇</p><p><br></p><p>16:00-17:00</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 百度智能产品文档开发实践&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PingCAP技术文档开发实践</p><p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p><br></p><p>17:00-17:30</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;交流讨论</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;合影留念</p>",
+          "text": "<p>13:00-14:00&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;入场签到</p><p><br></p><p>14:00-15:30</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;技术文档代码化开发模式</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;阿里云技术文档开发实践</p><p><br></p><p>15:30-16:00</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;茶歇</p><p><br></p><p>16:00-17:00</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 百度智能产品文档开发实践&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PingCAP技术文档开发实践</p><p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>17:00-17:30</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;交流讨论</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;合影留念</p>",
           "_tags": [
             "Theme"
           ],
@@ -2527,7 +2527,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>1. 活动免费参加，因场地限制，总人数限60人，30席预留，30席开放报名；</p><p>2. 填写<a href=\"http://pkutc-training.mikecrm.com/lbdbfnz\" target=\"_blank\">报名表单</a>，收到主办方的回执确认后为报名成功；</p><p>3. 报名截止日期：2018年12月20日 17:00</p><p>3. 凭主办方的邀请码进入会场参与讨论</p><p><br></p>",
+          "text": "<p>1. 活动免费参加，因场地限制，总人数限60人，30席预留，30席开放报名；</p><p>2. 填写<a href=\"http://pkutc-training.mikecrm.com/lbdbfnz\" target=\"_blank\">报名表单</a>，收到主办方的回执确认后为报名成功；</p><p>3. 报名截止日期：2018年12月20日 17:00；</p><p>3. 凭主办方的邀请码进入会场参加活动；</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
