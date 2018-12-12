@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "技术传播沙龙",
+    "name": "技术传播沙龙-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -30,7 +30,7 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "cookiesAlert": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-45957014-7\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-45957014-7');\r\n</script>\r\n",
     "siteUrl": "undefined"
   },
