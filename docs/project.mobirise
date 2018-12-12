@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "技术传播沙龙",
-    "currentPage": "about.html",
+    "currentPage": "seminar7.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2440,7 +2440,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>13:00-14:00&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;入场签到</p><p><br></p><p>14:00-15:30</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;技术文档代码化开发模式</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;阿里云技术文档开发实践</p><p><br></p><p>15:30-16:00</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;茶歇</p><p><br></p><p>16:00-17:00</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PingCAP技术文档开发实践</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IBM文档开发实践</p><p><br></p><p>17:00-17:30</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;交流讨论|合影留念</p>",
+          "text": "<p>13:00-14:00&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;入场签到</p><p><br></p><p>14:00-15:30</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;技术文档代码化开发模式</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;阿里云技术文档开发实践</p><p><br></p><p>15:30-16:00</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;茶歇</p><p><br></p><p>16:00-17:00</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 百度智能产品文档开发实践&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PingCAP技术文档开发实践</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IBM文档开发实践</p><p><br></p><p>17:00-17:30</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;交流讨论|合影留念</p>",
           "_tags": [
             "Theme"
           ],
@@ -2657,7 +2657,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron3.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
