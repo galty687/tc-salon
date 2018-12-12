@@ -1035,6 +1035,9 @@ h6,
 #header3-35 .mbr-section-subtitle {
   text-align: left;
 }
+#header3-35 .mbr-section-subtitle SPAN {
+  font-size: 10px;
+}
 #header3-37 .mbr-section-title,
 #header3-37 .mbr-section-subtitle {
   text-align: center;
