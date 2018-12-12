@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "技术传播沙龙",
-    "currentPage": "english.html",
+    "currentPage": "seminar7.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 109,
+    "uniqCompNum": 102,
     "versionPublish": "4.8.8",
     "favicon": "@PROJECT_PATH@/assets/images/pku-128x128.png",
     "noImageResize": "",
@@ -377,7 +377,7 @@
       "settings": {
         "title": "结构化写作与DITA",
         "meta_descr": "Web Site Generator Description",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -893,7 +893,7 @@
       "settings": {
         "title": "关于我们",
         "meta_descr": "Website Builder Description",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1179,7 +1179,7 @@
       "settings": {
         "title": "第六次技术传播沙龙",
         "meta_descr": "Web Maker Description",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1466,7 +1466,7 @@
       "settings": {
         "title": "ASD-STE培训",
         "meta_descr": "Website Maker Description",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -2008,7 +2008,7 @@
       "settings": {
         "title": "北京大学技术传播研修班",
         "meta_descr": "Web Site Builder Description",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -2139,7 +2139,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "第七次技术传播沙龙",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -2370,7 +2370,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>阿里云文档中心</p>",
+          "text": "<p>阿里云全球化和内容能力中心</p>",
           "_tags": [
             "Theme"
           ],
@@ -2540,7 +2540,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "English",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
