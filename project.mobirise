@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "技术传播沙龙",
-    "currentPage": "index.html",
+    "currentPage": "seminar7.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2425,7 +2425,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>1. 活动免费参加，因场地限制限100人，50席预留，50席开放报名；</p><p>2. 填写<a href=\"http://pkutc-training.mikecrm.com/lbdbfnz\" target=\"_blank\">报名表单</a>，收到主办方的回执确认后为报名成功；</p><p>3. 报名截止日期：2018年12月20日 17:00</p><p>3. 凭主办方的邀请码进入会场参与讨论</p><p><br></p>",
+          "text": "<p>1. 活动免费参加，因场地限制，总人数限60人，30席预留，30席开放报名；</p><p>2. 填写<a href=\"http://pkutc-training.mikecrm.com/lbdbfnz\" target=\"_blank\">报名表单</a>，收到主办方的回执确认后为报名成功；</p><p>3. 报名截止日期：2018年12月20日 17:00</p><p>3. 凭主办方的邀请码进入会场参与讨论</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
