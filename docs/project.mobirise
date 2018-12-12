@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "技术传播沙龙",
-    "currentPage": "seminar7.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -55,7 +55,8 @@
               "color": "#ffffff"
             },
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "color": "#ffffff"
             }
           },
           "_anchor": "header1-1",
@@ -66,7 +67,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x995.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -79,7 +80,7 @@
             "overlayOpacity": 0.5
           },
           "title": "技术传播沙龙",
-          "text": "<span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\">讨论前沿技术</span>，<span style=\"font-style: normal;\">分享行业动态</span><br><span style=\"font-style: normal;\">线上线下结合</span><br><span style=\"font-style: normal; font-size: 1.5rem; line-height: 1.5;\">致力于成为世界上技术传播交流的又一高地！</span><br>",
+          "text": "<br><span style=\"font-style: normal;\">讨论前沿技术</span>，<span style=\"font-style: normal;\">分享行业动态</span><br><span style=\"font-style: normal;\">线上线下结合</span><br><span style=\"font-style: normal; font-size: 1.5rem; line-height: 1.5;\">致力于成为世界上技术传播交流的又一高地！</span><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -2657,7 +2658,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
