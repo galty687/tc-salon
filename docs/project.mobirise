@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "技术传播沙龙-clone",
-    "currentPage": "index.html",
+    "currentPage": "seminar7.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2116,7 +2116,7 @@
         }
       ]
     },
-    "page6.html": {
+    "seminar7.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "第七次技术传播沙龙",
