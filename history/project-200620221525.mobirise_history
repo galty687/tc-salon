@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 102,
+    "uniqCompNum": 116,
     "versionPublish": "4.8.8",
     "favicon": "@PROJECT_PATH@/assets/images/pku-128x128.png",
     "noImageResize": "",
@@ -3025,7 +3025,7 @@
             "showText": true,
             "showButton": false,
             "paddingTop": 3,
-            "paddingBottom": "2",
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
@@ -3040,7 +3040,7 @@
             "overlayOpacity": 0.5
           },
           "title": "第八次技术传播沙龙",
-          "text": "<p>主题：技术文档质量评估</p><p>2020年7月4日 14:00-17:30</p><p>线上：腾讯会议</p><p>感谢“北京德和顺天科技有限公司”对本次活动的支持。</p>",
+          "text": "<p>主题：技术文档质量评估</p><p>2020年7月4日 14:00-17:30</p><p>线上：腾讯会议</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
