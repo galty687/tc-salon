@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "技术传播沙龙",
-    "currentPage": "index.html",
+    "currentPage": "seminar.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 122,
+    "uniqCompNum": 119,
     "versionPublish": "4.8.8",
     "favicon": "@PROJECT_PATH@/assets/images/pku-128x128.png",
     "noImageResize": "",
@@ -32,7 +32,11 @@
     "siteFonts": [],
     "cookiesAlert": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-45957014-7\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-45957014-7');\r\n</script>\r\n",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@docs",
+    "gitHubName": "galty687",
+    "gitHubPath": "tc-salon"
   },
   "pages": {
     "index.html": {
@@ -118,9 +122,9 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "“第九次技术传播沙龙” 即将开始！",
-          "text": "<br><span style=\"font-style: normal;\">地点：线上 · 腾讯会议<br>主题：内容管理与信息分类</span><span style=\"font-style: normal;\"><br>时间：2021年7月31日 14:00-17:30</span>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"seminar.html\" data-toolbar=\"-mbrBtnMove\">沙龙详情</a>"
+          "title": "“第八次技术传播沙龙” 即将开始！",
+          "text": "<br><span style=\"font-style: normal;\">地点：线上 · 腾讯会议<br>主题：技术文档质量评估</span><span style=\"font-style: normal;\"><br>时间：2020年7月4日 14:00-17:30</span>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"seminar8.html\" data-toolbar=\"-mbrBtnMove\">沙龙详情</a>"
         },
         {
           "_styles": {
@@ -208,7 +212,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">技术传播沙龙</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">首页</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">历届沙龙</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar.html\" aria-expanded=\"false\">第九次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar8.html\" aria-expanded=\"false\">第八次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar7.html\" aria-expanded=\"false\">第七次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sixth-seminar.html\">第六次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar5.html\">第五次活动</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">培训</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DITA.html\">DITA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"asd-ste.html\">ASD-STE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://training.tc-edu.org\">北大技术写作师资班</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://wiki.techcommsalon.com\" target=\"_blank\">知识库</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">关于我们</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">English</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">首页</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">历届沙龙</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar8.html\" aria-expanded=\"false\">第八次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar7.html\" aria-expanded=\"false\">第七次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sixth-seminar.html\">第六次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar5.html\">第五次活动</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">培训</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DITA.html\">DITA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"asd-ste.html\">ASD-STE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://training.tc-edu.org\">北大技术写作师资班</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://wiki.techcommsalon.com\" target=\"_blank\">知识库</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">关于我们</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">English</a></li>"
         },
         {
           "_tags": [
@@ -544,7 +548,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">技术传播沙龙</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">首页</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">历届沙龙</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar.html\" aria-expanded=\"false\">第九次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar8.html\" aria-expanded=\"false\">第八次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar7.html\" aria-expanded=\"false\">第七次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sixth-seminar.html\">第六次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar5.html\">第五次活动</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">培训</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DITA.html\">DITA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"asd-ste.html\">ASD-STE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://training.tc-edu.org\">北大技术写作师资班</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://wiki.techcommsalon.com\" target=\"_blank\">知识库</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">关于我们</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">English</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">首页</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">历届沙龙</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar8.html\" aria-expanded=\"false\">第八次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar7.html\" aria-expanded=\"false\">第七次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sixth-seminar.html\">第六次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar5.html\">第五次活动</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">培训</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DITA.html\">DITA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"asd-ste.html\">ASD-STE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://training.tc-edu.org\">北大技术写作师资班</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://wiki.techcommsalon.com\" target=\"_blank\">知识库</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">关于我们</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">English</a></li>"
         },
         {
           "_styles": {
@@ -1023,7 +1027,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">技术传播沙龙</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">首页</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">历届沙龙</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar.html\" aria-expanded=\"false\">第九次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar8.html\" aria-expanded=\"false\">第八次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar7.html\" aria-expanded=\"false\">第七次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sixth-seminar.html\">第六次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar5.html\">第五次活动</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">培训</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DITA.html\">DITA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"asd-ste.html\">ASD-STE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://training.tc-edu.org\">北大技术写作师资班</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://wiki.techcommsalon.com\" target=\"_blank\">知识库</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">关于我们</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">English</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">首页</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">历届沙龙</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar8.html\" aria-expanded=\"false\">第八次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar7.html\" aria-expanded=\"false\">第七次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sixth-seminar.html\">第六次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar5.html\">第五次活动</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">培训</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DITA.html\">DITA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"asd-ste.html\">ASD-STE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://training.tc-edu.org\">北大技术写作师资班</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://wiki.techcommsalon.com\" target=\"_blank\">知识库</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">关于我们</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">English</a></li>"
         },
         {
           "_styles": {
@@ -1309,7 +1313,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">技术传播沙龙</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">首页</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">历届沙龙</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar.html\" aria-expanded=\"false\">第九次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar8.html\" aria-expanded=\"false\">第八次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar7.html\" aria-expanded=\"false\">第七次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sixth-seminar.html\">第六次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar5.html\">第五次活动</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">培训</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DITA.html\">DITA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"asd-ste.html\">ASD-STE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://training.tc-edu.org\">北大技术写作师资班</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://wiki.techcommsalon.com\" target=\"_blank\">知识库</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">关于我们</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">English</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">首页</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">历届沙龙</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar8.html\" aria-expanded=\"false\">第八次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar7.html\" aria-expanded=\"false\">第七次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sixth-seminar.html\">第六次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar5.html\">第五次活动</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">培训</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DITA.html\">DITA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"asd-ste.html\">ASD-STE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://training.tc-edu.org\">北大技术写作师资班</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://wiki.techcommsalon.com\" target=\"_blank\">知识库</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">关于我们</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">English</a></li>"
         },
         {
           "_styles": {
@@ -1630,7 +1634,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">技术传播沙龙</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">首页</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">历届沙龙</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar.html\" aria-expanded=\"false\">第九次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar8.html\" aria-expanded=\"false\">第八次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar7.html\" aria-expanded=\"false\">第七次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sixth-seminar.html\">第六次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar5.html\">第五次活动</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">培训</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DITA.html\">DITA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"asd-ste.html\">ASD-STE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://training.tc-edu.org\">北大技术写作师资班</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://wiki.techcommsalon.com\" target=\"_blank\">知识库</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">关于我们</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">English</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">首页</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">历届沙龙</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar8.html\" aria-expanded=\"false\">第八次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar7.html\" aria-expanded=\"false\">第七次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sixth-seminar.html\">第六次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar5.html\">第五次活动</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">培训</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DITA.html\">DITA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"asd-ste.html\">ASD-STE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://training.tc-edu.org\">北大技术写作师资班</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://wiki.techcommsalon.com\" target=\"_blank\">知识库</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">关于我们</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">English</a></li>"
         },
         {
           "_styles": {
@@ -2172,7 +2176,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">技术传播沙龙</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">首页</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">历届沙龙</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar.html\" aria-expanded=\"false\">第九次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar8.html\" aria-expanded=\"false\">第八次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar7.html\" aria-expanded=\"false\">第七次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sixth-seminar.html\">第六次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar5.html\">第五次活动</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">培训</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DITA.html\">DITA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"asd-ste.html\">ASD-STE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://training.tc-edu.org\">北大技术写作师资班</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://wiki.techcommsalon.com\" target=\"_blank\">知识库</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">关于我们</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">English</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">首页</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">历届沙龙</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar8.html\" aria-expanded=\"false\">第八次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar7.html\" aria-expanded=\"false\">第七次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sixth-seminar.html\">第六次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar5.html\">第五次活动</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">培训</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DITA.html\">DITA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"asd-ste.html\">ASD-STE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://training.tc-edu.org\">北大技术写作师资班</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://wiki.techcommsalon.com\" target=\"_blank\">知识库</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">关于我们</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">English</a></li>"
         }
       ]
     },
@@ -2268,7 +2272,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">技术传播沙龙</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">首页</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">历届沙龙</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar.html\" aria-expanded=\"false\">第九次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar8.html\" aria-expanded=\"false\">第八次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar7.html\" aria-expanded=\"false\">第七次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sixth-seminar.html\">第六次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar5.html\">第五次活动</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">培训</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DITA.html\">DITA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"asd-ste.html\">ASD-STE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://training.tc-edu.org\">北大技术写作师资班</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://wiki.techcommsalon.com\" target=\"_blank\">知识库</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">关于我们</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">English</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">首页</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">历届沙龙</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar8.html\" aria-expanded=\"false\">第八次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar7.html\" aria-expanded=\"false\">第七次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sixth-seminar.html\">第六次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar5.html\">第五次活动</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">培训</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DITA.html\">DITA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"asd-ste.html\">ASD-STE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://training.tc-edu.org\">北大技术写作师资班</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://wiki.techcommsalon.com\" target=\"_blank\">知识库</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">关于我们</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">English</a></li>",
           "_anchor": "menu-2u"
         },
         {
@@ -2675,7 +2679,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">技术传播沙龙</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">首页</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">历届沙龙</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar.html\" aria-expanded=\"false\">第九次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar8.html\" aria-expanded=\"false\">第八次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar7.html\" aria-expanded=\"false\">第七次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sixth-seminar.html\">第六次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar5.html\">第五次活动</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">培训</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DITA.html\">DITA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"asd-ste.html\">ASD-STE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://training.tc-edu.org\">北大技术写作师资班</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://wiki.techcommsalon.com\" target=\"_blank\">知识库</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">关于我们</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">English</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">首页</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">历届沙龙</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar8.html\" aria-expanded=\"false\">第八次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar7.html\" aria-expanded=\"false\">第七次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sixth-seminar.html\">第六次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar5.html\">第五次活动</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">培训</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DITA.html\">DITA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"asd-ste.html\">ASD-STE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://training.tc-edu.org\">北大技术写作师资班</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://wiki.techcommsalon.com\" target=\"_blank\">知识库</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">关于我们</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">English</a></li>",
           "_anchor": "menu-2x"
         },
         {
@@ -2706,7 +2710,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -2855,7 +2859,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">技术传播沙龙</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">首页</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">历届沙龙</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar.html\" aria-expanded=\"false\">第九次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar8.html\" aria-expanded=\"false\">第八次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar7.html\" aria-expanded=\"false\">第七次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sixth-seminar.html\">第六次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar5.html\">第五次活动</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">培训</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DITA.html\">DITA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"asd-ste.html\">ASD-STE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://training.tc-edu.org\">北大技术写作师资班</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://wiki.techcommsalon.com\" target=\"_blank\">知识库</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">关于我们</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">English</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">首页</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">历届沙龙</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar8.html\" aria-expanded=\"false\">第八次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar7.html\" aria-expanded=\"false\">第七次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sixth-seminar.html\">第六次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar5.html\">第五次活动</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">培训</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DITA.html\">DITA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"asd-ste.html\">ASD-STE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://training.tc-edu.org\">北大技术写作师资班</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://wiki.techcommsalon.com\" target=\"_blank\">知识库</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">关于我们</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">English</a></li>",
           "_anchor": "menu-2z"
         },
         {
@@ -2868,7 +2872,7 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -3004,7 +3008,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">技术传播沙龙</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">首页</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">历届沙龙</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar.html\" aria-expanded=\"false\">第九次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar8.html\" aria-expanded=\"false\">第八次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar7.html\" aria-expanded=\"false\">第七次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sixth-seminar.html\">第六次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar5.html\">第五次活动</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">培训</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DITA.html\">DITA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"asd-ste.html\">ASD-STE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://training.tc-edu.org\">北大技术写作师资班</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://wiki.techcommsalon.com\" target=\"_blank\">知识库</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">关于我们</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">English</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">首页</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">历届沙龙</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar8.html\" aria-expanded=\"false\">第八次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar7.html\" aria-expanded=\"false\">第七次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sixth-seminar.html\">第六次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar5.html\">第五次活动</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">培训</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DITA.html\">DITA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"asd-ste.html\">ASD-STE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://training.tc-edu.org\">北大技术写作师资班</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://wiki.techcommsalon.com\" target=\"_blank\">知识库</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">关于我们</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">English</a></li>",
           "_anchor": "menu-2u"
         },
         {
@@ -3368,7 +3372,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">技术传播沙龙</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">首页</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">历届沙龙</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar.html\" aria-expanded=\"false\">第九次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar8.html\" aria-expanded=\"false\">第八次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar7.html\" aria-expanded=\"false\">第七次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sixth-seminar.html\">第六次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar5.html\">第五次活动</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">培训</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DITA.html\">DITA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"asd-ste.html\">ASD-STE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://training.tc-edu.org\">北大技术写作师资班</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://wiki.techcommsalon.com\" target=\"_blank\">知识库</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">关于我们</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">English</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">首页</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">历届沙龙</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar8.html\" aria-expanded=\"false\">第八次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar7.html\" aria-expanded=\"false\">第七次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sixth-seminar.html\">第六次活动</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seminar5.html\">第五次活动</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#slider-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">培训</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DITA.html\">DITA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"asd-ste.html\">ASD-STE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://training.tc-edu.org\">北大技术写作师资班</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://wiki.techcommsalon.com\" target=\"_blank\">知识库</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">关于我们</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page7.html\">English</a></li>",
           "_anchor": "menu-2u"
         },
         {
@@ -3397,7 +3401,7 @@
             "overlayOpacity": 0.5
           },
           "title": "第九次技术传播沙龙",
-          "text": "<p>内容管理与信息分类</p><p>2021年7月31日 14:00-17:00</p><p>腾讯会议</p>",
+          "text": "<p>内容管理系统与信息分类</p><p>2021年7月31日 14:00-17:00</p><p>腾讯会议</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -3411,7 +3415,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><span style=\"font-style: normal;\">技术写作大体包括四个环节：一是内容创作，主要涉及以用户为中心的内容设计，和使用各种技术创作内容；二是内容管理，有了海量内容后，如何对内容进行有效组织从而能高效使用内容；三是内容交付，新时代的用户获取信息的媒介在发生翻天覆地的变化，如何向用户提供及时可用的内容是一个挑战；四是内容追踪，内容交付给用户后，追踪用户如何使用这些信息，从而能持续改进内容。</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\"><b>本次沙龙活动聚焦内容管理与信息分类在技术写作行业中的应用。</b></span></p></blockquote>",
+          "text": "<blockquote><p><span style=\"font-style: normal;\">技术写作大体包括四个环节，一是内容的创作，主要涉及以用户为中心的内容设计，和使用各种技术高效创作内容；二是内容管理，有了海量内容后，如何对内容进行有效组织从而能进行高效地查找与使用；第三个是内容的交付，新时代用户或许信息的媒介在发生翻天覆地的变化，如何向用户提交及时可用的内容是新的挑战；四是内容的追踪，内容交付给用户后，用户如何使用这些信息需要持续追踪，从而能便于内容的持续改进。</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\"><b>本次沙龙活动聚焦内容管理系统与信息分类在技术写作行业中的应用。</b></span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -3461,8 +3465,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "text-align": "left",
-              "font-size": "32px"
+              "text-align": "left"
             },
             ".mbr-section-subtitle": {
               "text-align": "left"
@@ -3475,12 +3478,12 @@
             "bgColor": "#fff"
           },
           "title": "日程安排",
-          "meta": "1. 以当日实际日程安排为准；<br>2. 主要使用机器同传，有志愿者同学提供必要的翻译服务；",
+          "meta": "1. <span style=\"font-style: normal;\">以当日实际日程安排为准</span><br>2. <span style=\"font-style: normal;\">使用机器同传<br></span>3. <span style=\"font-style: normal;\">有志愿者同学提供必要的翻译服务</span>",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-3b"
+          "_anchor": "header3-38"
         },
         {
           "_params": {
@@ -3488,7 +3491,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>14:00-14:10</p><p>&nbsp; &nbsp; - 开场</p><p><br></p><p>14:10- 15:00&nbsp;</p><p>&nbsp; &nbsp; - 从内容管理到内容即服务</p><p>&nbsp; &nbsp; &nbsp; (北京大学，高志军）</p><p><br></p><p>15:00 - 16:00</p><p>&nbsp; &nbsp; - 信息分类方法论(PI-Classification)</p><p>&nbsp; &nbsp;（德国卡尔斯鲁厄应用技术大学，Wolfgang Ziegler，教授）</p><p><br></p><p>16:00 -17:00</p><p>&nbsp; &nbsp; - 内容管理系统的应用</p><p>&nbsp; &nbsp; （德国Docufy gmbh公司，Stefan Donat，CEO）&nbsp;</p><p><br></p><p>17:00- 17:30</p><p>&nbsp; &nbsp; -  问答与自由交流</p>",
+          "text": "<p>14:00-14:10</p><p>&nbsp; &nbsp; - 开场</p><p><br></p><p>14:10- 15:00&nbsp;</p><p>&nbsp; &nbsp; - 从内容管理到内容即服务</p><p>&nbsp; &nbsp; (北京大学，高志军）</p><p><br></p><p>15:00 - 16:00</p><p>&nbsp; &nbsp; - 信息分类方法论(PI-Classification)</p><p>&nbsp; &nbsp;（德国卡尔斯鲁厄应用技术大学，Wolfgang Ziegler，教授）</p><p><br></p><p>16:00 -17:00</p><p>&nbsp; &nbsp; - 内容管理系统的应用</p><p>&nbsp; &nbsp; （德国Docufy gmbh公司，Stefan Donat，CEO）&nbsp;</p><p><br></p><p>17:00- 17:30</p><p>&nbsp; &nbsp; -  问答与自由交流</p>",
           "_tags": [
             "Theme"
           ],
@@ -3501,10 +3504,6 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "text-align": "left",
-              "font-size": "32px"
-            },
-            ".mbr-section-subtitle": {
               "text-align": "left"
             }
           },
@@ -3515,12 +3514,12 @@
             "bgColor": "#fff"
           },
           "title": "报名方式",
-          "meta": "",
+          "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-3c"
+          "_anchor": "header3-3a"
         },
         {
           "_params": {
@@ -3541,10 +3540,6 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "text-align": "left",
-              "font-size": "32px"
-            },
-            ".mbr-section-subtitle": {
               "text-align": "left"
             }
           },
@@ -3560,7 +3555,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-3d"
+          "_anchor": "header3-36"
         },
         {
           "_params": {
