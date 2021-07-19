@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "技术传播沙龙",
-    "currentPage": "index.html",
+    "currentPage": "seminar9.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3401,7 +3401,7 @@
             "overlayOpacity": 0.5
           },
           "title": "第九次技术传播沙龙",
-          "text": "<p>内容管理与信息分类</p><p>2021年7月31日 14:00-17:00</p><p>腾讯会议</p>",
+          "text": "<p>内容管理与信息分类</p><p>2021年7月31日 14:00-17:30</p><p>腾讯会议</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -3415,7 +3415,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><span style=\"font-style: normal;\">技术写作大体包括四个环节：一是内容创作，主要涉及以用户为中心的内容设计，和使用各种技术创作内容；二是内容管理，有了海量内容后，如何对内容进行有效组织从而能高效使用内容；三是内容交付，新时代的用户获取信息的媒介在发生翻天覆地的变化，如何向用户提供及时可用的内容是一个挑战；四是内容追踪，内容交付给用户后，追踪用户如何使用这些信息，从而能持续改进内容。</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\"><b>本次沙龙活动聚焦内容管理与信息分类在技术写作行业中的应用。</b></span></p></blockquote>",
+          "text": "<blockquote><p><span style=\"font-style: normal;\">技术写作大体包括四个环节：一是内容创作，主要涉及以用户为中心的内容设计和使用各种技术创作内容；二是内容管理，有了海量内容后，如何对内容进行有效组织从而能高效使用内容；三是内容交付，新时代的用户获取信息的媒介在发生翻天覆地的变化，如何向用户提供及时可用的内容是一个挑战；四是内容追踪，内容交付给用户后，追踪用户如何使用这些信息，从而能持续改进内容。</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\"><b>本次沙龙活动聚焦内容管理与信息分类在技术写作行业中的应用。</b></span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -3532,7 +3532,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>1. 活动免费参加，因腾讯会议限制，总人数限300人；</p><p>2. 填写<a href=\"http://pkutc-training.mikecrm.com/UI7wXPz\">报名表单</a>，收到主办方的回执确认后为报名成功；</p><p>3. 报名截止日期：2021年7月29日 17:00；随后将通过邮件和短信发送参会方式。</p><p>3. 凭主办方发送的腾讯会议ID信息登入参会，入会后请使用真名；</p>",
+          "text": "<p>1. 活动免费参加，因腾讯会议限制，总人数限300人；</p><p>2. 填写<a href=\"http://pkutc-training.mikecrm.com/UI7wXPz\">报名表单</a>，收到主办方的回执确认后为报名成功；</p><p>3. 报名截止日期：2021年7月29日 17:00，随后将通过邮件和短信发送参会方式。</p><p>3. 凭主办方发送的腾讯会议ID信息登入参会，入会后请使用真名；</p>",
           "_tags": [
             "Theme"
           ],
