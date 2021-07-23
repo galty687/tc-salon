@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "技术传播沙龙",
-    "currentPage": "seminar9.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -119,7 +119,7 @@
             "overlayOpacity": 0.5
           },
           "title": "“第九次技术传播沙龙” 即将开始！",
-          "text": "<br><span style=\"font-style: normal;\">地点：线上 · 腾讯会议<br>主题：内容管理与信息分类</span><span style=\"font-style: normal;\"><br>时间：2021年7月31日 14:00-17:30</span>",
+          "text": "<br><span style=\"font-style: normal;\">地点：线上 · 腾讯会议<br>主题：内容管理与信息分类</span><span style=\"font-style: normal;\"><br>时间：2021年7月31日 14:00-18:00</span>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"seminar9.html\" data-toolbar=\"-mbrBtnMove\">沙龙详情</a>"
         },
         {
