@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "技术传播沙龙",
-    "currentPage": "seminar9.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -32,7 +32,11 @@
     "siteFonts": [],
     "cookiesAlert": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-45957014-7\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-45957014-7');\r\n</script>\r\n",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@docs",
+    "gitHubName": "galty687",
+    "gitHubPath": "tc-salon"
   },
   "pages": {
     "index.html": {
@@ -2706,7 +2710,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -2868,7 +2872,7 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -3528,7 +3532,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>1. 活动免费参加，因腾讯会议限制，总人数限300人；</p><p>2. 填写此&nbsp;<a href=\"http://pkutc-training.mikecrm.com/UI7wXPz\"><u><b>报名表单</b></u></a>，收到主办方的回执确认后为报名成功；</p><p>3. 报名截止日期：2021年7月29日 17:00，随后将通过邮件和短信发送参会方式；</p><p>3. 凭主办方发送的腾讯会议ID信息登入参会，入会后请使用真名；</p>",
+          "text": "<p>1. 活动免费参加，因腾讯会议限制，总人数限300人；</p><p>2. 填写<a href=\"http://pkutc-training.mikecrm.com/UI7wXPz\">报名表单</a>，收到主办方的回执确认后为报名成功；</p><p>3. 报名截止日期：2021年7月29日 17:00，随后将通过邮件和短信发送参会方式；</p><p>3. 凭主办方发送的腾讯会议ID信息登入参会，入会后请使用真名；</p>",
           "_tags": [
             "Theme"
           ],
