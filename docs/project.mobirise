@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 122,
+    "uniqCompNum": 132,
     "versionPublish": "4.8.8",
     "favicon": "@PROJECT_PATH@/assets/images/pku-128x128.png",
     "noImageResize": "",
@@ -3574,6 +3574,186 @@
           ],
           "_name": "content1",
           "_anchor": "content1-37"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "TC Seminar 9",
+          "meta": "Content management and information classification<br>14:00-18:00<br>July 31, 2021&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3e"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>Technical writing generally includes four parts. The first is content creation, which mainly involves user-centered content design and the use of various technologies to create content. The second is content management, which means how to effectively organize a large amount of content so that it could be used efficiently. The third is content delivery. In the new era, the media for users to obtain information has completely changed. It has become a challenge to provide users with timely and available content. The fourth is content tracking. After the content is delivered to users, track how users apply these information so that the content can be continuously improved.</p><p><br></p><p><b>This event will focus on the application of content management and information classification in the technical writing industry.</b></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-3g"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "Host",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3h"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>- Organization Committee of Technology Communication Seminar\n</p><p>- School of Software and Microelectronics, Peking University\n</p><p>- Institute for Information and Content Management</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3f"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Agenda",
+          "meta": "1. Subject to the actual schedule of the day;\n<br>2. Mainly use machine simultaneous interpretation, with volunteer students to provide necessary translation services;&nbsp;<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3i"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>14:00-14:10\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- Opening</p><p><br></p><p>\n</p><p>14:10- 14:50\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- From content management to content as a service\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Peking University, Zhijun Gao, Lecturer)\n</p><p><br></p><p>14:50 - 15:30\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- Headless CMS and others\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;(Peking University, Jingsong Yu, Associate Professor)\n</p><p><br></p><p>15:30 - 16:30\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- Information Classification Methodology (PI-Classification)\n</p><p>&nbsp; &nbsp; (Karlsruhe University of Applied Sciences, Wolfgang Ziegler, Professor)\n</p><p><br></p><p>16:30 -17:30\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- Application of content management system\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;(Docufy gmbh, Germany, Stefan Donat, CEO)\n</p><p><br></p><p>17:30- 18:00\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- Q&amp;A</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- free discussion\n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3j"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "Registration",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3k"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>1. The event is free to participate, due to Tencent meeting restrictions, the total audience is limited to 300 people;\n</p><p>2. Fill out this <a href=\"http://pkutc-training.mikecrm.com/UI7wXPz\">registration form</a>, and after receiving the confirmation from the organizer, the registration is successful;\n</p><p>3. Deadline for registration: July 29, 2021 at 17:00, and the conference link will be sent via email and SMS;\n</p><p>4. Log in to the conference with the Tencent conference ID sent by the organizer. Please use your real name in the conference;\n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3l"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "Contact",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3m"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Zhijun Gao\r</p><p>Email: gaozhijun@ss.pku.edu.cn\r</p><p>Phone: 010-61273510\r</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3n"
         },
         {
           "_tags": [
