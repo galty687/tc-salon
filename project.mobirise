@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 132,
+    "uniqCompNum": 133,
     "versionPublish": "4.8.8",
     "favicon": "@PROJECT_PATH@/assets/images/pku-128x128.png",
     "noImageResize": "",
@@ -301,7 +301,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/tc-training-2000x1335.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -313,6 +313,51 @@
                 "text": "Menno de Jong教授在授课",
                 "showButtons": false,
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/seminar7-1600x1066.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "文档代码化开发",
+                "showText": true,
+                "text": "在阿里望京园区召开",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/seminar9-2000x1384.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "信息管理与信息分类",
+                "showText": true,
+                "text": "Wolfgang Ziegler 在第九次技术传播沙龙活动上分享",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/ieee%20pcs%202017-1440x1080.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "在亚琛工大",
+                "showText": true,
+                "text": "IEEE PCS 2017, China Panel",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
           },
@@ -414,7 +459,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">提交</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\"><span style=\"font-style: normal;\">提交</span></a>"
         }
       ]
     },
@@ -3275,7 +3320,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">提交</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\"><span style=\"font-style: normal;\">提交</span></a>",
           "_anchor": "contacts4-2v"
         }
       ]
@@ -3492,7 +3537,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>14:00-14:10</p><p>&nbsp; &nbsp; - 开场</p><p><br></p><p>14:10- 14:50&nbsp;</p><p>&nbsp; &nbsp; - 从内容管理到内容即服务</p><p>&nbsp; &nbsp; &nbsp; (北京大学，高志军，讲师）</p><p><br></p><p>14:50 - 15:30</p><p>&nbsp; &nbsp; - Headless CMS 及其他</p><p>&nbsp;&nbsp;&nbsp;&nbsp;（北京大学，俞敬松，副教授）<br></p><p><br></p><p>15:30 - 16:30</p><p>&nbsp; &nbsp; - 数字信息服务的内容管理与内容交付</p><p>&nbsp; &nbsp;（德国卡尔斯鲁厄应用技术大学，Wolfgang Ziegler，教授）</p><p><br></p><p>16:30 -17:30</p><p>&nbsp; &nbsp; - 内容管理系统的应用</p><p>&nbsp; &nbsp; （德国Docufy gmbh公司，Stefan Donat，CEO）&nbsp;</p><p><br></p><p>17:30- 18:00</p><p>&nbsp; &nbsp; -  问答与自由交流</p>",
+          "text": "<p>14:00-14:10</p><p>&nbsp; &nbsp; - 开场</p><p><br></p><p>14:10- 14:50&nbsp;</p><p>&nbsp; &nbsp; - 从内容管理到内容即服务</p><p>&nbsp; &nbsp; &nbsp; (北京大学，高志军，讲师 |点击<a href=\"https://www.bilibili.com/video/BV1Cb4y1z7M2/\" target=\"_blank\" style=\"font-style: normal;\"><u>回放</u></a>，下载<a href=\"assets/files/1-从内容管理到内容服务.pdf\" style=\"font-style: normal;\"><u>课件</u></a>）</p><p><br></p><p>14:50 - 15:30</p><p>&nbsp; &nbsp; - Headless CMS 及其他</p><p>&nbsp;&nbsp;&nbsp;&nbsp;（北京大学，俞敬松，副教授 |点击<a href=\"https://www.bilibili.com/video/BV1xA411P74r/\" target=\"_blank\"><u style=\"font-style: normal;\">回放</u></a>，下载<a href=\"assets/files/2-The Cloud-first CMS.pdf\" style=\"font-style: normal;\"><u>课件</u></a>）<br></p><p><br></p><p>15:30 - 16:30</p><p>&nbsp; &nbsp; - 数字信息服务的内容管理与内容交付</p><p>&nbsp; &nbsp;（德国卡尔斯鲁厄应用技术大学，Wolfgang Ziegler，教授 &nbsp;|点击<a href=\"https://www.bilibili.com/video/BV1Zv411K715/\" target=\"_blank\" style=\"font-style: normal;\"><u>回放</u></a>，下载<a href=\"assets/files/3-CMS-CDP-DIS_V5_TCSalon21_4translate.pdf\" style=\"font-style: normal;\"><u>课件</u></a>）</p><p><br></p><p>16:30 -17:30</p><p>&nbsp; &nbsp; - 内容管理系统的应用</p><p>&nbsp; &nbsp; （德国Docufy gmbh公司，Stefan Donat，CEO &nbsp;|点击<a href=\"https://www.bilibili.com/video/BV1bq4y1n787/\" target=\"_blank\" style=\"font-style: normal;\"><u>回放</u></a>，下载<a href=\"assets/files/4-DOCUFY - Presentation Expertise in Technical Documentation and Content Delivery.pdf\" target=\"_blank\" style=\"font-style: normal;\"><u>课件</u></a> ）&nbsp;</p><p><br></p><p>17:30- 18:00</p><p>&nbsp; &nbsp; -  问答与自由交流</p>",
           "_tags": [
             "Theme"
           ],
@@ -3809,7 +3854,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">提交</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\"><span style=\"font-style: normal;\">提交</span></a>",
           "_anchor": "contacts4-2v"
         }
       ]
