@@ -1484,6 +1484,9 @@ h6,
 #msg-box8-3s p {
   color: #fff;
 }
+#msg-box8-3s .mbr-section-title {
+  font-size: 46px;
+}
 #header3-3u .mbr-section-title,
 #header3-3u .mbr-section-subtitle {
   text-align: center;
