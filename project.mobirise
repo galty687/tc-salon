@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "技术传播沙龙",
-    "currentPage": "index.html",
+    "currentPage": "seminar10.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -4040,7 +4040,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>- 技术传播沙龙</p><p>- 北京大学软件与微电子学院</p><p>- 蚂蚁科技集团</p><p><br></p>",
+          "text": "<p>- 技术传播沙龙</p><p>- 北京大学软件与微电子学院</p><p>- 蚂蚁集团OceanBase文档团队</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
