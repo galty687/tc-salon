@@ -1528,3 +1528,112 @@ h6,
 #header3-40 .mbr-section-subtitle {
   text-align: left;
 }
+#menu-4d .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-4d .navbar-caption {
+  color: #ffffff;
+}
+#menu-4d .navbar-toggler {
+  color: #ffffff;
+}
+#menu-4d .close-icon::before,
+#menu-4d .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-4d .link,
+#menu-4d .dropdown-item {
+  color: #ffffff;
+}
+#menu-4d .link {
+  font-size: 0.9rem;
+}
+#menu-4d .dropdown-item,
+#menu-4d .nav-dropdown-sm .link {
+  font-size: 0.975rem;
+}
+#menu-4d .link:hover,
+#menu-4d .dropdown-item:hover,
+#menu-4d .link:focus,
+#menu-4d .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-4d .link[aria-expanded="true"],
+#menu-4d .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-4d .nav-dropdown-sm .link:focus,
+#menu-4d .nav-dropdown-sm .link:hover,
+#menu-4d .nav-dropdown-sm .dropdown-item:focus,
+#menu-4d .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-4d .navbar,
+#menu-4d .nav-dropdown-sm,
+#menu-4d .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-4d .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-4d .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-4d .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-4d .bg-color.transparent.opened .link:hover,
+#menu-4d .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-4d .link[aria-expanded="true"],
+#menu-4d .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#msg-box8-4e .mbr-section-title,
+#msg-box8-4e p {
+  color: #fff;
+}
+#msg-box8-4e .mbr-section-title {
+  font-size: 46px;
+}
+#header3-4g .mbr-section-title,
+#header3-4g .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4g .mbr-section-title {
+  text-align: left;
+  font-size: 32px;
+}
+#header3-4i .mbr-section-title,
+#header3-4i .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4i .mbr-section-title {
+  text-align: left;
+  font-size: 32px;
+}
+#header3-4i .mbr-section-subtitle {
+  text-align: left;
+}
+#header3-4k .mbr-section-title,
+#header3-4k .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4k .mbr-section-title {
+  text-align: left;
+  font-size: 32px;
+}
+#header3-4k .mbr-section-subtitle {
+  text-align: left;
+}
+#header3-4m .mbr-section-title,
+#header3-4m .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4m .mbr-section-title {
+  text-align: left;
+  font-size: 32px;
+}
+#header3-4m .mbr-section-subtitle {
+  text-align: left;
+}
