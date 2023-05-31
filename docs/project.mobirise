@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "技术传播沙龙",
-    "currentPage": "pku-research.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -127,9 +127,9 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "“第十次技术传播沙龙” 即将开始！",
-          "text": "<br><span style=\"font-style: normal;\">地点：腾讯会议<br>主题：技术文档的用户体验评估规范</span><span style=\"font-style: normal;\"><br>时间：2022年7月23日 14:00-17:00</span>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"seminar-doc-ux.html\" data-toolbar=\"-mbrBtnMove\">沙龙详情</a>",
+          "title": "“第11次技术传播沙龙” 即将开始！",
+          "text": "<br><span style=\"font-style: normal;\">地点：北京大学大兴校区3号楼3402会议室<br>主题：北京大学技术传播研究分享</span><span style=\"font-style: normal;\"><br>时间：2023年6月3日 14:00-17:00</span>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"pku-research.html\" data-toolbar=\"-mbrBtnMove\">沙龙详情</a>",
           "_sourceTheme": "mobirise3"
         },
         {
